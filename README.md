@@ -7,7 +7,7 @@ Website
 - 列表1
 - 列表2
 - 列表3
-[baidu](www.baidu.com)
+[baidu](http://www.baidu.com)
 
 $ git config --global user.name "bwtian"
 $ git config --global user.email "bwtian@gmail.com"
