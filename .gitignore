@@ -1,5 +1,5 @@
 # User defined
-.Rproj
+*.Rproj
 # History files
 .Rhistory
 .Rapp.history
